@@ -2,3 +2,8 @@
     background-color:black;
     color: aqua;
 }
+
+article {
+    border: 1px solid red;
+    width: 20%;
+}
